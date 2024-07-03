@@ -10,8 +10,8 @@ cin>>b;
 a>b? cout<<a: cout<<b;*/
 
 int a;
-a=24?even:odd;
-cout<<"enter even number";
-
+cout<<"enter a number";
+cin>>a;
+a%2=0?cout<<"y":cout<<"n";
 
 }
