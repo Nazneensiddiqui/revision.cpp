@@ -10,7 +10,7 @@ cout<<" ";
 }
 for(int c=1;c<=r;c++)
 {
-cout<<"*";
+cout<<" * ";
 }
 cout<<"\n";
 }

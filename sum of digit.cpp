@@ -5,7 +5,7 @@
   int n;
   cout<<"enter any digit number\n";
   cin>>n;
- /* for(n;n>0;n=n/10)
+  /*for(n;n>0;n=n/10)
   {
   c++;
   }

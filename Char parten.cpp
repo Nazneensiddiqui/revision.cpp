@@ -2,11 +2,12 @@
 using namespace std;
 int main()
 {
-for(char r='A'; r<='C'; r++)
+for(int r=3; r>=1; r--)
        {
-     for(char c='A'; c<=r; c++)
+     for(int c=1; c<=r; c++)
          {
-     cout<<c<<"\t";
+
+     cout<<"* ";
          }
       cout<<"\n";
        }
